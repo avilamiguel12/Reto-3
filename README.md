@@ -1,6 +1,6 @@
 # Reto-3
 <pre>
-	n=int(input("ingrese el numero:"))
+n=int(input("ingrese el numero:"))
 a=1
 while a<=(n):
     b = 1
