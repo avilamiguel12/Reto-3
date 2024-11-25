@@ -1,5 +1,6 @@
 # Reto-3
-n=int(input("ingrese el numero:"))
+<pre>
+	n=int(input("ingrese el numero:"))
 a=1
 while a<=(n):
     b = 1
@@ -20,3 +21,4 @@ while a<=(n):
         a=a+1
         b=1
         v=0
+</pre>
