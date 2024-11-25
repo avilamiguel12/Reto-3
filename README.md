@@ -23,4 +23,5 @@ while a<=(n):
         v=0
 </pre>
 DIAGRAMA DE FLUJO:
+
 ![Captura de pantalla 2024-11-25 174501](https://github.com/user-attachments/assets/9fec608a-acd1-495a-8698-e487fc1352cf)
